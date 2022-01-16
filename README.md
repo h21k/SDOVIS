@@ -34,19 +34,13 @@ Deployment:<br>
 
 We welcome scientists and profefssionals to use our code examples and data but would kindly ask to refer to one of the following resorces:<br>
 
-@software{jax2018github,
-  author = {James Bradbury and Roy Frostig and Peter Hawkins and Matthew James Johnson and Chris Leary and Dougal Maclaurin and George Necula and Adam Paszke and Jake Vander{P}las and Skye Wanderman-{M}ilne and Qiao Zhang},
-  title = {{JAX}: composable transformations of {P}ython+{N}um{P}y programs},
-  url = {http://github.com/google/jax},
-  version = {0.2.5},
-  year = {2018},
+```
+@sdovis{sdovis2022,
+  author = {Paul J Wright and Frank Soboczenski},
+  title = {SDOVIS: A Vision Transformer Model for Solar Dynamics Observatory (SDO) Data},
+  url = {http://github.com/h21k/sdovis},
+  version = {0.1},
+  year = {2022},
 }
-
-@software{jax2018github,
-  author = {James Bradbury and Roy Frostig and Peter Hawkins and Matthew James Johnson and Chris Leary and Dougal Maclaurin and George Necula and Adam Paszke and Jake Vander{P}las and Skye Wanderman-{M}ilne and Qiao Zhang},
-  title = {{JAX}: composable transformations of {P}ython+{N}um{P}y programs},
-  url = {http://github.com/google/jax},
-  version = {0.2.5},
-  year = {2018},
-}
+```
 
