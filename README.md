@@ -1,6 +1,6 @@
-# Code Repository for SDOVIS (Submitted to Machine Learning in Heliophysics](https://ml-helio.github.io/))
+# SDOVIS: A Vision Transformer Model for Solar Dynamics Observatory (SDO) Data 
 
-SDOVIS: A Vision Transformer Model for Solar Dynamics Observatory (SDO) Data 
+Code Repository for SDOVIS - Submitted to [Machine Learning in Heliophysics](https://ml-helio.github.io/)
 <br>
 
 Authors:<br> 
